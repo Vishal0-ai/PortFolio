@@ -12,7 +12,7 @@ A minimal, editorial-style portfolio inspired by the reference design.
 ## Run locally
 
 1. Put all files in the same folder.
-2. Add your resume as `resume.pdf`.
+2. Add your resume as `Data.pdf`.
 3. Open `index.html` in a browser.
 
 For the best development experience, use VS Code + Live Server.
