@@ -7,7 +7,7 @@ A minimal, editorial-style portfolio inspired by the reference design.
 - `index.html` — portfolio structure and content
 - `style.css` — responsive styling
 - `script.js` — mobile navigation, year and scroll reveal
-- `resume.pdf` — add your own resume PDF here
+- `Data.pdf` — add your own resume PDF here
 
 ## Run locally
 
