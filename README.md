@@ -21,10 +21,10 @@ For the best development experience, use VS Code + Live Server.
 
 Search for:
 
-- `[Your Name]`
-- `your.email@example.com`
-- GitHub links (`href="#"`)
-- LinkedIn links (`href="#"`)
+- `Vishal Yadav`
+- `vishalyy1001@gmail.com`
+- GitHub links
+- LinkedIn links
 - Project names/descriptions
 - Skills
 - Journey/timeline entries
